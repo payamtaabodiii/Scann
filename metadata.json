@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel A54",
+  "description": "Evidence-first/origin-first/uncertainty-aware local forensic scanner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
